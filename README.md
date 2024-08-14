@@ -6,7 +6,7 @@ This project provides PowerShell scripts for measuring internet speed on Windows
 # Acknowledgement
 
 - To get the most out of this project, familiarize yourself with Chocolatey, PowerShell, `curl`, and `wget`.
-- Install the necessary tools using Chocolatey as described in the README.
+- Install the necessary tools using Chocolatey as described in the Notion notes.
 - Follow the PowerShell script instructions carefully to measure your internet speed accurately.
 - If you encounter any issues, revisit the installation and script execution steps to ensure everything is set up correctly.
  
